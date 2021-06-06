@@ -35,3 +35,5 @@ https://user-images.githubusercontent.com/71202250/120943583-a94a6400-c6e4-11eb-
 ## Installation
 
 With GitHub account, clone or download repository using link. 
+Check it out on Heroku: https://nelle898steno.herokuapp.com/
+
