@@ -42,6 +42,7 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+<a name="demo"></a>
 ## Stenographist Demonstration
 
 https://user-images.githubusercontent.com/71202250/120943583-a94a6400-c6e4-11eb-9a2a-db0f6bc230c9.mp4
