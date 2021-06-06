@@ -1,4 +1,4 @@
-# stenographist
+# Stenographist Note-Taker Version 1.0
 
 1. [ Description. ](#desc)
 2. [ Purpose. ](#purp)
