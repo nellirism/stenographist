@@ -1,4 +1,14 @@
 # stenographist
+
+1. [ Description. ](#desc)
+2. [ Follow the Link. ](#urlz)
+3. [ Horus Demo. ](#demo)
+4. [ User Story. ](#story)
+5. [ Acceptance Criteria. ](#ac)
+
+<a name="desc"></a>
+## Description
+
 A stenographer is a person whose occupation is to transcribe speech in shorthand such as a "court stenographer".
 Stenographist is chosen to name this note taker application.
 Stenographist is an app that can be used to write, save and delete notes. 
