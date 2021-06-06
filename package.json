@@ -1,0 +1,25 @@
+{
+  "name": "stenographist",
+  "version": "1.0.0",
+  "description": "This is a GitHub repository for a note taker application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellirism/stenographist.git"
+  },
+  "keywords": [],
+  "author": "Nell-e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nellirism/stenographist/issues"
+  },
+  "homepage": "https://github.com/nellirism/stenographist#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
