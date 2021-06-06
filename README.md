@@ -30,7 +30,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Stenographist Demonstration
 
-![Note Taker Demo](/Develop/public/assets/stenographist.mp4)
+https://user-images.githubusercontent.com/71202250/120943583-a94a6400-c6e4-11eb-9a2a-db0f6bc230c9.mp4
 
 ## Installation
 
